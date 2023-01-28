@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\New folder\LMS\LMS\obj\Debug\net6.0\LMS.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\New folder\LMS\LMS\obj\Debug\net6.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\New folder\LMS\LMS\obj\Debug\net6.0\LMS.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\New folder\LMS\LMS\obj\Debug\net6.0\LMS.AssemblyInfo.cs
+C:\Users\admin\Desktop\New folder\LMS\LMS\obj\Debug\net6.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\LMS\LMS\obj\Debug\net6.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\New folder\LMS\LMS\obj\Debug\net6.0\LMS.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\New folder\LMS\LMS\obj\Debug\net6.0\LMS.RazorAssemblyInfo.cs
